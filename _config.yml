@@ -18,8 +18,8 @@ email: contato@korestudio.com.br
 description: > # this means to ignore newlines until "baseurl:"
   Realizamos projetos residenciais e comerciais em todo o Rio de Janeiro, 
   Belo Horizonte e Vitória. Entre em contato e faça um orçamento conosco.
-baseurl: "/jekyll" # the subpath of your site, e.g. /blog
-url: "https://dev.korestudio.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: korestudio
 github_username:  korestudio
 
